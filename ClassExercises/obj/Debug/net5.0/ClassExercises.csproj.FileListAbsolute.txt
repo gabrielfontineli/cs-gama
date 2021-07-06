@@ -1,0 +1,16 @@
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ClassExercises.exe
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ClassExercises.deps.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ClassExercises.runtimeconfig.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ClassExercises.runtimeconfig.dev.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ClassExercises.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ref\ClassExercises.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\bin\Debug\net5.0\ClassExercises.pdb
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.csproj.AssemblyReference.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.AssemblyInfoInputs.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.AssemblyInfo.cs
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ref\ClassExercises.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.pdb
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\ClassExercises\obj\Debug\net5.0\ClassExercises.genruntimeconfig.cache
