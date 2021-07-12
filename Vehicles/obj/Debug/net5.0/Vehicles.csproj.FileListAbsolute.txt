@@ -1,0 +1,16 @@
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\Vehicles.exe
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\Vehicles.deps.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\Vehicles.runtimeconfig.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\Vehicles.runtimeconfig.dev.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\Vehicles.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\ref\Vehicles.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\bin\Debug\net5.0\Vehicles.pdb
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.AssemblyInfo.cs
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\ref\Vehicles.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.pdb
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\Vehicles\obj\Debug\net5.0\Vehicles.genruntimeconfig.cache
