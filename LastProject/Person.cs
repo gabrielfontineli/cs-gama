@@ -21,7 +21,7 @@ namespace LastProject
             Console.WriteLine($"name         = {Name}");
             Console.WriteLine($"surname      = {Surname}");
             Console.WriteLine($"height       = {Height} meters or {Height*100} centimeters");
-            Console.WriteLine($"day of birth = {DayOfBirth.Date.ToString("dd/MM/yyyy")}");
+            Console.WriteLine($"day of birth = {DayOfBirth.Date.ToShortDateString()}");
         }
         public void ShowAge()
         {
@@ -37,8 +37,9 @@ namespace LastProject
         }
         public void ShowNameLikeUS()
         {
+            String[] aux = Surname.Split();
 
-            Console.WriteLine($"{Surname}, {Name}");
+            Console.WriteLine($"{aux[1]}, {Name} {aux[0]}");
         }
     }
 }
