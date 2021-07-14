@@ -27,7 +27,7 @@ namespace LastProject
         {
             int years = DateTime.Today.Year - DayOfBirth.Year;
             int months = DateTime.Today.Month - DayOfBirth.Month;
-            if((DayOfBirth.Month > DateTime.Now.Month) || (DayOfBirth.Month == DateTime.Now.Month && DayOfBirth.Day > DateTime.Now.Day))
+            if((DateTime.Today.DayOfYear < DayOfBirth.DayOfYear))
             {
                 years --;
                 months += 12;
