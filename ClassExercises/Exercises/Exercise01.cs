@@ -9,12 +9,22 @@ namespace ClassExercises
             Console.WriteLine("-------Exercise 01-------");
 
             float grade1, grade2, final; // declarei as variaveis
-
-            Console.WriteLine("enter your first grade"); // perguntando a nota 1
-            grade1 = float.Parse(Console.ReadLine()); // recebo a entrada na variavel
-
-            Console.WriteLine("enter your second grade"); // perguntando a nota 2
-            grade2 = float.Parse(Console.ReadLine()); // recebo a entrada
+            grade1 = grade2 = 0;
+            try
+            {
+                
+                Console.WriteLine("enter your first grade"); // perguntando a nota 1
+                grade1 = float.Parse(Console.ReadLine()); // recebo a entrada na variavel'
+                float.TryParse(Console.ReadLine(),out float Tempgrade1);
+                grade1 = Tempgrade1;
+                Console.WriteLine("enter your second grade"); // perguntando a nota 2
+                grade2 = float.Parse(Console.ReadLine()); // recebo a entrada
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Valor inválido");
+                Console.WriteLine(e.Message);
+            }
 
             final = (grade1 + grade2) / 2; // calcular media
 
@@ -24,6 +34,7 @@ namespace ClassExercises
                 {
                     Console.WriteLine("Aprovado com Distinção");
                 }
+
                 else
                 {
                     Console.WriteLine("Aprovado com nota " + final);
@@ -31,8 +42,9 @@ namespace ClassExercises
             }
             else
             {
-                Console.WriteLine("Reprovado com nota "+ final);
+                Console.WriteLine("Reprovado com nota " + final);
             }
+
 
 
 
