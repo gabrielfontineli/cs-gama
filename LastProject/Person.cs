@@ -38,8 +38,8 @@ namespace LastProject
         public void ShowNameLikeUS()
         {
             String[] aux = Surname.Split();
-
-            Console.WriteLine($"{aux[1]}, {Name} {aux[0]}");
+            int num = Surname.IndexOf(aux[aux.Length-1]);
+            Console.WriteLine($"{aux[aux.Length-1]}, {Name} {Surname.Substring(0,num)}");
         }
     }
 }
