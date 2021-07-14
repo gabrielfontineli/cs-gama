@@ -25,7 +25,7 @@ namespace LastProject
             DayOfBirth = DateTime.Parse(Console.ReadLine());
             
 
-            Person OtherPerson = new Person(name,surname, DayOfBirth,height);
+            Person OtherPerson = new Person(name, surname, DayOfBirth ,height);
             Console.WriteLine("-----------------------------------------------------------");
             OtherPerson.ShowData();
             Console.WriteLine("-----------------------------------------------------------");
