@@ -1,0 +1,16 @@
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\LastProject.exe
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\LastProject.deps.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\LastProject.runtimeconfig.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\LastProject.runtimeconfig.dev.json
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\LastProject.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\ref\LastProject.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\bin\Debug\net5.0\LastProject.pdb
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.csproj.AssemblyReference.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.AssemblyInfoInputs.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.AssemblyInfo.cs
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\ref\LastProject.dll
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.pdb
+C:\Users\Gabriel F\Documents\treinamento_gama\C#\LastProject\obj\Debug\net5.0\LastProject.genruntimeconfig.cache
